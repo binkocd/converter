@@ -1,2 +1,6 @@
 .python-version
 *.pyc
+.cache
+.coverage
+.tox
+*egg-info
